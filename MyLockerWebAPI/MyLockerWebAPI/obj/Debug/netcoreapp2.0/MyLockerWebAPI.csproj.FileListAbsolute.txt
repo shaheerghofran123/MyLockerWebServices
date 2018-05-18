@@ -1,0 +1,11 @@
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\bin\Debug\netcoreapp2.0\MyLockerWebAPI.deps.json
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\bin\Debug\netcoreapp2.0\MyLockerWebAPI.runtimeconfig.json
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\bin\Debug\netcoreapp2.0\MyLockerWebAPI.runtimeconfig.dev.json
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\bin\Debug\netcoreapp2.0\MyLockerWebAPI.dll
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\bin\Debug\netcoreapp2.0\MyLockerWebAPI.pdb
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\obj\Debug\netcoreapp2.0\MyLockerWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\obj\Debug\netcoreapp2.0\MyLockerWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\obj\Debug\netcoreapp2.0\MyLockerWebAPI.AssemblyInfoInputs.cache
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\obj\Debug\netcoreapp2.0\MyLockerWebAPI.AssemblyInfo.cs
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\obj\Debug\netcoreapp2.0\MyLockerWebAPI.dll
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebService\WebServices\MyLockerWebAPI\MyLockerWebAPI\obj\Debug\netcoreapp2.0\MyLockerWebAPI.pdb
